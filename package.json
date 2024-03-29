@@ -1,6 +1,6 @@
 {
     "name": "cra-template-scrypto-app",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "CRA template with: scrypto tooling available for building dApps on Radix Network.",
     "license": "MIT",
     "main": "template.json",
