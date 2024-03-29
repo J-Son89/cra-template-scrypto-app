@@ -1,5 +1,6 @@
 # Create Scrypto App
 
+This is a template for a Create React App - https://create-react-app.dev/
 
 [Scrypto](https://developers.radixdlt.com/#get-started) is the smart contract language for the blockchain network [Radix](https://www.radixdlt.com/).
 
