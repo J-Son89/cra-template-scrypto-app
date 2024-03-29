@@ -1,0 +1,12 @@
+{
+    "package": {
+        "dependencies": {
+            "@radixdlt/radix-dapp-toolkit": "^1.4.4",
+            "classnames": "^2.5.1",
+            "react-modal": "^3.16.1",
+            "react-router-dom": "^6.21.1",
+            "web-vitals": "^2.1.4"
+        },
+        "scripts": {}
+    }
+}

@@ -1,0 +1,48 @@
+{
+    "name": "cra-template-scrypto-app",
+    "version": "1.0.0",
+    "description": "CRA template with: scrypto tooling available for building dApps on Radix Network.",
+    "license": "MIT",
+    "main": "template.json",
+    "author": "JC",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/J-Son89/cra-template-scrypto-app"
+    },
+    "files": [
+      "template",
+      "template.json"
+    ],
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject"
+    },
+    "eslintConfig": {
+      "extends": [
+        "react-app",
+        "react-app/jest"
+      ]
+    },
+    "keywords": [
+      "react",
+      "create-react-app",
+      "template",
+      "radix",
+      "scrypto",
+      "dapp"
+    ],
+    "browserslist": {
+      "production": [
+        ">0.2%",
+        "not dead",
+        "not op_mini all"
+      ],
+      "development": [
+        "last 1 chrome version",
+        "last 1 firefox version",
+        "last 1 safari version"
+      ]
+    }
+  }
